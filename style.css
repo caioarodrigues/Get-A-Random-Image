@@ -11,6 +11,10 @@ header{
     border-bottom-style:outset;
 }
 
+nav {
+    margin-left: 10px;
+}
+
 #nav-text{
     font-size: 20px;
 }
